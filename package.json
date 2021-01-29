@@ -1,0 +1,24 @@
+{
+  "name": "basic-pwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "service-worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jm-avila/basic-pwa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jm-avila/basic-pwa/issues"
+  },
+  "homepage": "https://github.com/jm-avila/basic-pwa#readme",
+  "dependencies": {
+    "pwa-asset-generator": "^4.1.1",
+    "serve": "^11.3.2"
+  }
+}
